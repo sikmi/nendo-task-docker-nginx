@@ -1,3 +1,3 @@
-# nendo-account-docker-nginx
+# nendo-task-docker-nginx
 
-- nendoアカウント用nginx
+- nendoタスク用nginx
